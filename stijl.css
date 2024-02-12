@@ -1,0 +1,53 @@
+html{
+    background-color: turquoise;
+}
+body{
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding: 15px 15px 15px 15px;
+}
+header{
+    padding: 15px 15px 15px 15px;
+}
+footer{
+    padding: 15px 15px 15px 15px;
+}
+.a1,.a2,.a3{
+    color:red;
+    font-size: 26px;
+    text-decoration: none;
+}
+.a1:hover{
+    color: #FF8A1C;
+    background-color: #0CFF13;
+    font-size: 26px;
+    text-decoration: none;
+}
+.a2:hover{
+    color: #FF8A1C;
+    background-color: #0CFF13;
+    font-size: 26px;
+    text-decoration: none;
+}
+.a3:hover{
+    color: #FF8A1C;
+    background-color: #0CFF13;
+    font-size: 26px;
+    text-decoration: none;
+}
+input[type=submit]{
+    color:red;
+    background-color: turquoise;
+    font-size: 26px;
+    text-decoration: none;
+}
+input[type=submit]:hover{
+    font-size: 26px;
+    background-color: #0CFF13;
+    color: #FF8A1C;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
